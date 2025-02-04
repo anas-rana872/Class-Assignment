@@ -1,0 +1,1018 @@
+[
+    {
+        "blr_coverage":"IND",
+        "full_state_name":"Across India"
+    },
+    {
+        "blr_coverage":"IND-DEL",
+        "full_state_name":"Delhi"
+    },
+    {
+        "blr_coverage":"IND-MAP",
+        "full_state_name":"Madhya Pradesh"
+    },
+    {
+        "blr_coverage":"IND-KAR",
+        "full_state_name":"Karnataka"
+    },
+    {
+        "blr_coverage":"IND-ASM",
+        "full_state_name":"Assam"
+    },
+    {
+        "blr_coverage":"IND-GUJ",
+        "full_state_name":"Gujarat"
+    },
+    {
+        "blr_coverage":"IND-TND-Namakkal",
+        "full_state_name":"Tamil Nadu"
+    },
+    {
+        "blr_coverage":"IND-RAJ",
+        "full_state_name":"Rajasthan"
+    },
+    {
+        "blr_coverage":"IND-BIH",
+        "full_state_name":"Bihar"
+    },
+    {
+        "blr_coverage":"IND-KER-Ernakulam",
+        "full_state_name":"Kerala"
+    },
+    {
+        "blr_coverage":"IND-BIH-Patna",
+        "full_state_name":"Bihar"
+    },
+    {
+        "blr_coverage":"IND-MAH",
+        "full_state_name":"Maharashtra"
+    },
+    {
+        "blr_coverage":"IND-ANP-Krishna",
+        "full_state_name":"Andhra Pradesh"
+    },
+    {
+        "blr_coverage":"IND-ANP-Nellore",
+        "full_state_name":"Andhra Pradesh"
+    },
+    {
+        "blr_coverage":"IND-KAR-Bengaluru",
+        "full_state_name":"Karnataka"
+    },
+    {
+        "blr_coverage":"IND-MAP-Bhopal",
+        "full_state_name":"Madhya Pradesh"
+    },
+    {
+        "blr_coverage":"IND-ANP-Chittoor",
+        "full_state_name":"Andhra Pradesh"
+    },
+    {
+        "blr_coverage":"IND-UTT-Dehradun",
+        "full_state_name":"Uttarakhand"
+    },
+    {
+        "blr_coverage":"IND-WBL-East_Midnapore",
+        "full_state_name":"West Bengal"
+    },
+    {
+        "blr_coverage":"IND-JAK-Jammu",
+        "full_state_name":"Jammu & Kashmir"
+    },
+    {
+        "blr_coverage":"IND-ODI-Khorda",
+        "full_state_name":"Odisha"
+    },
+    {
+        "blr_coverage":"IND-RAJ-Kota",
+        "full_state_name":"Rajasthan"
+    },
+    {
+        "blr_coverage":"IND-UTP-Meerut",
+        "full_state_name":"Uttar Pradesh"
+    },
+    {
+        "blr_coverage":"IND-DEL-North_Delhi",
+        "full_state_name":"Delhi"
+    },
+    {
+        "blr_coverage":"IND-DEL-North_West_Delhi",
+        "full_state_name":"Delhi"
+    },
+    {
+        "blr_coverage":"IND-KER-Palakkad",
+        "full_state_name":"Kerala"
+    },
+    {
+        "blr_coverage":"IND-MAH-Raigad",
+        "full_state_name":"Maharashtra"
+    },
+    {
+        "blr_coverage":"IND-HAR-Rohtak",
+        "full_state_name":"Haryana"
+    },
+    {
+        "blr_coverage":"IND-TND-Chennai",
+        "full_state_name":"Tamil Nadu"
+    },
+    {
+        "blr_coverage":"IND-WBL",
+        "full_state_name":"West Bengal"
+    },
+    {
+        "blr_coverage":"IND-TEL-Warangal",
+        "full_state_name":"Telangana"
+    },
+    {
+        "blr_coverage":"IND-WBL-West_Midnapore",
+        "full_state_name":"West Bengal"
+    },
+    {
+        "blr_coverage":"IND-ANP-East_Godavari",
+        "full_state_name":"Andhra Pradesh"
+    },
+    {
+        "blr_coverage":"IND-WBL-Hooghly",
+        "full_state_name":"West Bengal"
+    },
+    {
+        "blr_coverage":"IND-PUN-Jalandhar",
+        "full_state_name":"Punjab"
+    },
+    {
+        "blr_coverage":"IND-UTP-Kanpur_Dehat",
+        "full_state_name":"Uttar Pradesh"
+    },
+    {
+        "blr_coverage":"IND-UTP-Kheri",
+        "full_state_name":"Uttar Pradesh"
+    },
+    {
+        "blr_coverage":"IND-HIP-Kangra",
+        "full_state_name":"Himachal Pradesh"
+    },
+    {
+        "blr_coverage":"IND-HAR-Karnal",
+        "full_state_name":"Haryana"
+    },
+    {
+        "blr_coverage":"IND-WBL-North_24_Parganas",
+        "full_state_name":"West Bengal"
+    },
+    {
+        "blr_coverage":"IND-GUJ-Ahmedabad",
+        "full_state_name":"Gujarat"
+    },
+    {
+        "blr_coverage":"IND-TEL-Khammam",
+        "full_state_name":"Telangana"
+    },
+    {
+        "blr_coverage":"IND-UTP-Lalitpur",
+        "full_state_name":"Uttar Pradesh"
+    },
+    {
+        "blr_coverage":"IND-RAJ-Ajmer",
+        "full_state_name":"Rajasthan"
+    },
+    {
+        "blr_coverage":"IND-KAR-Dharward",
+        "full_state_name":"Karnataka"
+    },
+    {
+        "blr_coverage":"IND-KAR-Gulbarga",
+        "full_state_name":"Karnataka"
+    },
+    {
+        "blr_coverage":"IND-TEL-Hyderabad",
+        "full_state_name":"Telangana"
+    },
+    {
+        "blr_coverage":"IND-ODI-Jagatsinghapur",
+        "full_state_name":"Odisha"
+    },
+    {
+        "blr_coverage":"IND-ODI",
+        "full_state_name":"Odisha"
+    },
+    {
+        "blr_coverage":"IND-TND",
+        "full_state_name":"Tamil Nadu"
+    },
+    {
+        "blr_coverage":"IND-DEL-East_Delhi",
+        "full_state_name":"Delhi"
+    },
+    {
+        "blr_coverage":"IND-SIK-East_Sikkim",
+        "full_state_name":"Sikkim"
+    },
+    {
+        "blr_coverage":"IND-UTP",
+        "full_state_name":"Uttar Pradesh"
+    },
+    {
+        "blr_coverage":"IND-SIK",
+        "full_state_name":"Sikkim"
+    },
+    {
+        "blr_coverage":"IND-CHH-Raipur",
+        "full_state_name":"Chhatisgarh"
+    },
+    {
+        "blr_coverage":"IND-KER",
+        "full_state_name":"Kerala"
+    },
+    {
+        "blr_coverage":"IND-JAK",
+        "full_state_name":"Jammu & Kashmir"
+    },
+    {
+        "blr_coverage":"IND-MAH-Mumbai",
+        "full_state_name":"Maharashtra"
+    },
+    {
+        "blr_coverage":"IND-TRI",
+        "full_state_name":"Tripura"
+    },
+    {
+        "blr_coverage":"IND-GUJ-Surat",
+        "full_state_name":"Gujarat"
+    },
+    {
+        "blr_coverage":"IND-PUD",
+        "full_state_name":"Pudducherry"
+    },
+    {
+        "blr_coverage":"IND-HAR",
+        "full_state_name":"Haryana"
+    },
+    {
+        "blr_coverage":"IND-RAJ-Jaipur",
+        "full_state_name":"Rajasthan"
+    },
+    {
+        "blr_coverage":"IND-TEL",
+        "full_state_name":"Telangana"
+    },
+    {
+        "blr_coverage":"IND-KER-Malappuram",
+        "full_state_name":"Kerala"
+    },
+    {
+        "blr_coverage":"IND-JHA",
+        "full_state_name":"Jharkhand"
+    },
+    {
+        "blr_coverage":"IND-GUJ-Gandhinagar",
+        "full_state_name":"Gujarat"
+    },
+    {
+        "blr_coverage":"IND-HIP",
+        "full_state_name":"Himachal Pradesh"
+    },
+    {
+        "blr_coverage":"IND-DEL-South Delhi",
+        "full_state_name":"Delhi"
+    },
+    {
+        "blr_coverage":"IND-DEL-East Delhi",
+        "full_state_name":"Delhi"
+    },
+    {
+        "blr_coverage":"IND-HAR-Gurgaon",
+        "full_state_name":"Haryana"
+    },
+    {
+        "blr_coverage":"IND-MAP-Gwalior",
+        "full_state_name":"Madhya Pradesh"
+    },
+    {
+        "blr_coverage":"IND-UTP-Lucknow",
+        "full_state_name":"Uttar Pradesh"
+    },
+    {
+        "blr_coverage":"IND-UTP-Noida",
+        "full_state_name":"Uttar Pradesh"
+    },
+    {
+        "blr_coverage":"IND-UTP-Ghaziabad",
+        "full_state_name":"Uttar Pradesh"
+    },
+    {
+        "blr_coverage":"IND-UTP-Sultanpur",
+        "full_state_name":"Uttar Pradesh"
+    },
+    {
+        "blr_coverage":"IND-UTT",
+        "full_state_name":"Uttarakhand"
+    },
+    {
+        "blr_coverage":"IND-MAH-Pune",
+        "full_state_name":"Maharashtra"
+    },
+    {
+        "blr_coverage":"IND-ANP",
+        "full_state_name":"Andhra Pradesh"
+    },
+    {
+        "blr_coverage":"IND-KER-Alappuzha",
+        "full_state_name":"Kerala"
+    },
+    {
+        "blr_coverage":"IND-WBL-Darjiling",
+        "full_state_name":"West Bengal"
+    },
+    {
+        "blr_coverage":"IND-MAP-Indore",
+        "full_state_name":"Madhya Pradesh"
+    },
+    {
+        "blr_coverage":"IND-KER-Thrissur",
+        "full_state_name":"Kerala"
+    },
+    {
+        "blr_coverage":"IND-KER-Wayanad",
+        "full_state_name":"Kerala"
+    },
+    {
+        "blr_coverage":"IND-KER-Kasargod",
+        "full_state_name":"Kerala"
+    },
+    {
+        "blr_coverage":"IND-KER-Kannur",
+        "full_state_name":"Kerala"
+    },
+    {
+        "blr_coverage":"IND-KER-Kottayam",
+        "full_state_name":"Kerala"
+    },
+    {
+        "blr_coverage":"IND-KER-Kozhikode",
+        "full_state_name":"Kerala"
+    },
+    {
+        "blr_coverage":"IND-KER-Kollam",
+        "full_state_name":"Kerala"
+    },
+    {
+        "blr_coverage":"IND-KER-Thiruvananthapuram",
+        "full_state_name":"Kerala"
+    },
+    {
+        "blr_coverage":"IND-KER-Pathanamthitta",
+        "full_state_name":"Kerala"
+    },
+    {
+        "blr_coverage":"IND-KER-Idukki",
+        "full_state_name":"Kerala"
+    },
+    {
+        "blr_coverage":"IND-MAH-Thane",
+        "full_state_name":"Maharashtra"
+    },
+    {
+        "blr_coverage":"IND-PUD-Mahe",
+        "full_state_name":"Pudducherry"
+    },
+    {
+        "blr_coverage":"IND-TND-Coimbatore",
+        "full_state_name":"Tamil Nadu"
+    },
+    {
+        "blr_coverage":"IND-UTT-Champawat",
+        "full_state_name":"Uttarakhand"
+    },
+    {
+        "blr_coverage":"IND-KAR-Kalaburagi",
+        "full_state_name":"Karnataka"
+    },
+    {
+        "blr_coverage":"IND-KER-Kasaragod",
+        "full_state_name":"Kerala"
+    },
+    {
+        "blr_coverage":"IND-MAH-Badlapur",
+        "full_state_name":"Maharashtra"
+    },
+    {
+        "blr_coverage":"IND-MAH-Dombivali",
+        "full_state_name":"Maharashtra"
+    },
+    {
+        "blr_coverage":"IND-MAH-Khopoli",
+        "full_state_name":"Maharashtra"
+    },
+    {
+        "blr_coverage":"IND-MAH-Maharashtra",
+        "full_state_name":"Maharashtra"
+    },
+    {
+        "blr_coverage":"IND-TND-Karur",
+        "full_state_name":"Tamil Nadu"
+    },
+    {
+        "blr_coverage":"IND-TND-Pollachi",
+        "full_state_name":"Tamil Nadu"
+    },
+    {
+        "blr_coverage":"IND-TND-Tiruchirappalli",
+        "full_state_name":"Tamil Nadu"
+    },
+    {
+        "blr_coverage":"IND-TND-Tiruvannamalai",
+        "full_state_name":"Tamil Nadu"
+    },
+    {
+        "blr_coverage":"IND-TND-Nilgiris",
+        "full_state_name":"Tamil Nadu"
+    },
+    {
+        "blr_coverage":"IND-KER-Trivandrum",
+        "full_state_name":"Kerala"
+    },
+    {
+        "blr_coverage":"IND-TND-Cuddalore",
+        "full_state_name":"Tamil Nadu"
+    },
+    {
+        "blr_coverage":"IND-ARP",
+        "full_state_name":"Arunachal Pradesh"
+    },
+    {
+        "blr_coverage":"IND-MAH-Satara",
+        "full_state_name":"Maharashtra"
+    },
+    {
+        "blr_coverage":"IND-WBL-Nadia",
+        "full_state_name":"West Bengal"
+    },
+    {
+        "blr_coverage":"IND-ANP-West_Godavari",
+        "full_state_name":"Andhra Pradesh"
+    },
+    {
+        "blr_coverage":"IND-ANP-Visakhapatnam",
+        "full_state_name":"Andhra Pradesh"
+    },
+    {
+        "blr_coverage":"IND-CHH",
+        "full_state_name":"Chhatisgarh"
+    },
+    {
+        "blr_coverage":"IND-UTP-Allahabad",
+        "full_state_name":"Uttar Pradesh"
+    },
+    {
+        "blr_coverage":"IND-RAJ-Jodhpur",
+        "full_state_name":"Rajasthan"
+    },
+    {
+        "blr_coverage":"IND-DEL-Central_Delhi",
+        "full_state_name":"Delhi"
+    },
+    {
+        "blr_coverage":"IND-WBL-Murshidabad",
+        "full_state_name":"West Bengal"
+    },
+    {
+        "blr_coverage":"IND-TND-Madurai",
+        "full_state_name":"Tamil Nadu"
+    },
+    {
+        "blr_coverage":"IND-GUJ-Anand",
+        "full_state_name":"Gujarat"
+    },
+    {
+        "blr_coverage":"IND-MAH-Nagpur",
+        "full_state_name":"Maharashtra"
+    },
+    {
+        "blr_coverage":"IND-GOA",
+        "full_state_name":"Goa"
+    },
+    {
+        "blr_coverage":"IND-KAR-Shimoga",
+        "full_state_name":"Karnataka"
+    },
+    {
+        "blr_coverage":"IND-KAR-Tumkur",
+        "full_state_name":"Karnataka"
+    },
+    {
+        "blr_coverage":"IND-KAR-Udupi",
+        "full_state_name":"Karnataka"
+    },
+    {
+        "blr_coverage":"IND-KAR-Davangare",
+        "full_state_name":"Karnataka"
+    },
+    {
+        "blr_coverage":"IND-CHA-Chandigarh",
+        "full_state_name":"Chandigarh"
+    },
+    {
+        "blr_coverage":"IND-PUN",
+        "full_state_name":"Punjab"
+    },
+    {
+        "blr_coverage":"IND-DEL-Delhi",
+        "full_state_name":"Delhi"
+    },
+    {
+        "blr_coverage":"IND-DEL-New_Delhi",
+        "full_state_name":"Delhi"
+    },
+    {
+        "blr_coverage":"IND-ANI",
+        "full_state_name":"Andaman & Nicobar Islands"
+    },
+    {
+        "blr_coverage":"IND-GUJ-Rajkot",
+        "full_state_name":"Gujarat"
+    },
+    {
+        "blr_coverage":"IND-PUN-Amritsar",
+        "full_state_name":"Punjab"
+    },
+    {
+        "blr_coverage":"IND-GOA-North_Goa",
+        "full_state_name":"Goa"
+    },
+    {
+        "blr_coverage":"IND-WBL-Kolkata",
+        "full_state_name":"West Bengal"
+    },
+    {
+        "blr_coverage":"IND-PUN-Mohali",
+        "full_state_name":"Punjab"
+    },
+    {
+        "blr_coverage":"IND-MAH-Chandrapur",
+        "full_state_name":"Maharashtra"
+    },
+    {
+        "blr_coverage":"IND-UTP-Jaunpur",
+        "full_state_name":"Uttar Pradesh"
+    },
+    {
+        "blr_coverage":"IND-DEL-North_East_Delhi",
+        "full_state_name":"Delhi"
+    },
+    {
+        "blr_coverage":"IND-DEL-North Delhi",
+        "full_state_name":"Delhi"
+    },
+    {
+        "blr_coverage":"IND-UTP-Budaun",
+        "full_state_name":"Uttar Pradesh"
+    },
+    {
+        "blr_coverage":"IND-DAD",
+        "full_state_name":"Daman & Diu"
+    },
+    {
+        "blr_coverage":"INDIA-UTP-Bareilly",
+        "full_state_name":"Uttar Pradesh"
+    },
+    {
+        "blr_coverage":"INDIA-UTP-Unnao",
+        "full_state_name":"Uttar Pradesh"
+    },
+    {
+        "blr_coverage":"INDIA-UTP-Lucknow",
+        "full_state_name":"Uttar Pradesh"
+    },
+    {
+        "blr_coverage":"INDIA-UTP-Ghaziabad",
+        "full_state_name":"Uttar Pradesh"
+    },
+    {
+        "blr_coverage":"INDIA-UTP-Saharanpur",
+        "full_state_name":"Uttar Pradesh"
+    },
+    {
+        "blr_coverage":"IND-MIZ",
+        "full_state_name":"Mizoram"
+    },
+    {
+        "blr_coverage":"IND-MAP-Dewas",
+        "full_state_name":"Madhya Pradesh"
+    },
+    {
+        "blr_coverage":"IND-HAR-Faridabad",
+        "full_state_name":"Haryana"
+    },
+    {
+        "blr_coverage":"IND-UTP-Kanpur_Nagar",
+        "full_state_name":"Uttar Pradesh"
+    },
+    {
+        "blr_coverage":"IND-ASM-Jorhat",
+        "full_state_name":"Assam"
+    },
+    {
+        "blr_coverage":"IND-ASM-Barpeta",
+        "full_state_name":"Assam"
+    },
+    {
+        "blr_coverage":"IND-MAH-Nashik",
+        "full_state_name":"Maharashtra"
+    },
+    {
+        "blr_coverage":"IND-PUN-Sangrur",
+        "full_state_name":"Punjab"
+    },
+    {
+        "blr_coverage":"IND-PUN-Nawanshahr",
+        "full_state_name":"Punjab"
+    },
+    {
+        "blr_coverage":"IND-NAG",
+        "full_state_name":"Nagaland"
+    },
+    {
+        "blr_coverage":"IND-GUJ-Kachchh",
+        "full_state_name":"Gujarat"
+    },
+    {
+        "blr_coverage":"IND-ANP-Guntur",
+        "full_state_name":"Andhra Pradesh"
+    },
+    {
+        "blr_coverage":"IND-KAR-Bellary",
+        "full_state_name":"Karnataka"
+    },
+    {
+        "blr_coverage":"IND-KAR-Raichur",
+        "full_state_name":"Karnataka"
+    },
+    {
+        "blr_coverage":"IND-TND-Kanchipuram",
+        "full_state_name":"Tamil Nadu"
+    },
+    {
+        "blr_coverage":"IND-TND-Krishnagiri",
+        "full_state_name":"Tamil Nadu"
+    },
+    {
+        "blr_coverage":"IND-TEL-Karim Nagar",
+        "full_state_name":"Telangana"
+    },
+    {
+        "blr_coverage":"IND-CHA",
+        "full_state_name":"Chandigarh"
+    },
+    {
+        "blr_coverage":"IND-ANP-Kadapa",
+        "full_state_name":"Andhra Pradesh"
+    },
+    {
+        "blr_coverage":"IND-PUN-Patiala",
+        "full_state_name":"Punjab"
+    },
+    {
+        "blr_coverage":"IND-GOA-South_Goa",
+        "full_state_name":"Goa"
+    },
+    {
+        "blr_coverage":"IND-MAP-Dhar",
+        "full_state_name":"Madhya Pradesh"
+    },
+    {
+        "blr_coverage":"IND-MAH-Kolhapur",
+        "full_state_name":"Maharashtra"
+    },
+    {
+        "blr_coverage":"IND-TEL-Adilabad",
+        "full_state_name":"Telangana"
+    },
+    {
+        "blr_coverage":"IND-TEL-Rangareddy",
+        "full_state_name":"Telangana"
+    },
+    {
+        "blr_coverage":"IND-TEL-Nalgonda",
+        "full_state_name":"Telangana"
+    },
+    {
+        "blr_coverage":"IND-TEL-Karimnagar",
+        "full_state_name":"Telangana"
+    },
+    {
+        "blr_coverage":"IND-TEL-Nizamabad",
+        "full_state_name":"Telangana"
+    },
+    {
+        "blr_coverage":"IND-MAH-Aurangabad",
+        "full_state_name":"Maharashtra"
+    },
+    {
+        "blr_coverage":"IND-JHA-Dhanbad",
+        "full_state_name":"Jharkhand"
+    },
+    {
+        "blr_coverage":"IND-CHH-Bastar",
+        "full_state_name":"Chhatisgarh"
+    },
+    {
+        "blr_coverage":"IND-KAR-Bidar",
+        "full_state_name":"Karnataka"
+    },
+    {
+        "blr_coverage":"IND-ARP-Papum_Pare",
+        "full_state_name":"Arunachal Pradesh"
+    },
+    {
+        "blr_coverage":"IND-MEG",
+        "full_state_name":"Meghalaya"
+    },
+    {
+        "blr_coverage":"IND-MAP-Jabalpur",
+        "full_state_name":"Madhya Pradesh"
+    },
+    {
+        "blr_coverage":"IND-GUJ-Vadodara",
+        "full_state_name":"Gujarat"
+    },
+    {
+        "blr_coverage":"IND-UTP-Pratapgarh",
+        "full_state_name":"Uttar Pradesh"
+    },
+    {
+        "blr_coverage":"IND-JHA-Jamshedpur",
+        "full_state_name":"Jharkhand"
+    },
+    {
+        "blr_coverage":"IND-RAJ-Alwar",
+        "full_state_name":"Rajasthan"
+    },
+    {
+        "blr_coverage":"IND-LAK",
+        "full_state_name":"Lakshadweep Islands"
+    },
+    {
+        "blr_coverage":"IND-UTP-Mau",
+        "full_state_name":"Uttar Pradesh"
+    },
+    {
+        "blr_coverage":"IND-UTP-Mathura",
+        "full_state_name":"Uttar Pradesh"
+    },
+    {
+        "blr_coverage":"IND-RAJ-Barmer",
+        "full_state_name":"Rajasthan"
+    },
+    {
+        "blr_coverage":"IND-RAJ-Dungarpur",
+        "full_state_name":"Rajasthan"
+    },
+    {
+        "blr_coverage":"IND-MAP-Rewa",
+        "full_state_name":"Madhya Pradesh"
+    },
+    {
+        "blr_coverage":"IND-RAJ-Sikar",
+        "full_state_name":"Rajasthan"
+    },
+    {
+        "blr_coverage":"IND-MAN",
+        "full_state_name":"Manipur"
+    },
+    {
+        "blr_coverage":"IND-PUN-Ludhiana",
+        "full_state_name":"Punjab"
+    },
+    {
+        "blr_coverage":"IND-PUN-Bathinda",
+        "full_state_name":"Punjab"
+    },
+    {
+        "blr_coverage":"IND-MAH-Osmanabad",
+        "full_state_name":"Maharashtra"
+    },
+    {
+        "blr_coverage":"IND-HAR-Kurukshetra",
+        "full_state_name":"Haryana"
+    },
+    {
+        "blr_coverage":"IND-HAR-Panipat",
+        "full_state_name":"Haryana"
+    },
+    {
+        "blr_coverage":"IND-HIP-Shimla",
+        "full_state_name":"Himachal Pradesh"
+    },
+    {
+        "blr_coverage":"IND-UTP-Agra",
+        "full_state_name":"Uttar Pradesh"
+    },
+    {
+        "blr_coverage":"IND-UTP-Aligarh",
+        "full_state_name":"Uttar Pradesh"
+    },
+    {
+        "blr_coverage":"IND-UTP-Jhansi",
+        "full_state_name":"Uttar Pradesh"
+    },
+    {
+        "blr_coverage":"IND-UTP-Sitapur",
+        "full_state_name":"Uttar Pradesh"
+    },
+    {
+        "blr_coverage":"IND-MAH-Yavatmal",
+        "full_state_name":"Maharashtra"
+    },
+    {
+        "blr_coverage":"IND-DEL-South_Delhi",
+        "full_state_name":"Delhi"
+    },
+    {
+        "blr_coverage":"IND-RAJ-Ganganagar",
+        "full_state_name":"Rajasthan"
+    },
+    {
+        "blr_coverage":"IND-DEL-South West Delhi",
+        "full_state_name":"Delhi"
+    },
+    {
+        "blr_coverage":"IND-DEL-South East Delhi",
+        "full_state_name":"Delhi"
+    },
+    {
+        "blr_coverage":"IND-DEL-New Delhi",
+        "full_state_name":"Delhi"
+    },
+    {
+        "blr_coverage":"IND-HAR-Ambala",
+        "full_state_name":"Haryana"
+    },
+    {
+        "blr_coverage":"IND-HAR-Gurugram",
+        "full_state_name":"Haryana"
+    },
+    {
+        "blr_coverage":"IND-HAR-Yamuna Nagar",
+        "full_state_name":"Haryana"
+    },
+    {
+        "blr_coverage":"IND-HAR-Hisar",
+        "full_state_name":"Haryana"
+    },
+    {
+        "blr_coverage":"IND-UTP-Gautam Buddha Nagar",
+        "full_state_name":"Uttar Pradesh"
+    },
+    {
+        "blr_coverage":"IND-TND-Tiruvallur",
+        "full_state_name":"Tamil Nadu"
+    },
+    {
+        "blr_coverage":"IND-MAP-Betul",
+        "full_state_name":"Madhya Pradesh"
+    },
+    {
+        "blr_coverage":"IND-UTP-Raebareli",
+        "full_state_name":"Uttar Pradesh"
+    },
+    {
+        "blr_coverage":"IND-RAJ-Udaipur",
+        "full_state_name":"Rajasthan"
+    },
+    {
+        "blr_coverage":"IND-GUJ-Tapi",
+        "full_state_name":"Gujarat"
+    },
+    {
+        "blr_coverage":"IND-JHA-Ranchi",
+        "full_state_name":"Jharkhand"
+    },
+    {
+        "blr_coverage":"IND-KAR-Belgaum",
+        "full_state_name":"Karnataka"
+    },
+    {
+        "blr_coverage":"IND-RAJ-Bikaner",
+        "full_state_name":"Rajasthan"
+    },
+    {
+        "blr_coverage":"IND-TND-Vellore",
+        "full_state_name":"Tamil Nadu"
+    },
+    {
+        "blr_coverage":"IND-ANP-Anantapur",
+        "full_state_name":"Andhra Pradesh"
+    },
+    {
+        "blr_coverage":"IND-ANP-Srikakulam",
+        "full_state_name":"Andhra Pradesh"
+    },
+    {
+        "blr_coverage":"IND-WBL-Birbhum",
+        "full_state_name":"West Bengal"
+    },
+    {
+        "blr_coverage":"IND-WBL-Bardhaman",
+        "full_state_name":"West Bengal"
+    },
+    {
+        "blr_coverage":"IND-HAR-Sonipat",
+        "full_state_name":"Haryana"
+    },
+    {
+        "blr_coverage":"IND-JHA-Koderma",
+        "full_state_name":"Jharkhand"
+    },
+    {
+        "blr_coverage":"IND-MEG-Ri_Bhoi",
+        "full_state_name":"Meghalaya"
+    },
+    {
+        "blr_coverage":"IND-NAG-Dimapur",
+        "full_state_name":"Nagaland"
+    },
+    {
+        "blr_coverage":"IND-ODI-Nayagarh",
+        "full_state_name":"Odisha"
+    },
+    {
+        "blr_coverage":"IND-PUN-Rupnagar",
+        "full_state_name":"Punjab"
+    },
+    {
+        "blr_coverage":"IND-PUN-Fatehgarh Sahib",
+        "full_state_name":"Punjab"
+    },
+    {
+        "blr_coverage":"IND-ANP-East Godavari",
+        "full_state_name":"Andhra Pradesh"
+    },
+    {
+        "blr_coverage":"IND-ANP-West Godavari",
+        "full_state_name":"Andhra Pradesh"
+    },
+    {
+        "blr_coverage":"IND-UTP-Moradabad",
+        "full_state_name":"Uttar Pradesh"
+    },
+    {
+        "blr_coverage":"IND-WBL ",
+        "full_state_name":"West Bengal"
+    },
+    {
+        "blr_coverage":"IND-ODI-Kendujhar",
+        "full_state_name":"Odisha"
+    },
+    {
+        "blr_coverage":"IND-ANP-Vizianagaram",
+        "full_state_name":"Andhra Pradesh"
+    },
+    {
+        "blr_coverage":"IND-UTP-Varanasi",
+        "full_state_name":"Uttar Pradesh"
+    },
+    {
+        "blr_coverage":"IND-MAP-sagar",
+        "full_state_name":"Madhya Pradesh"
+    },
+    {
+        "blr_coverage":"IND-MAH-Ahmednagar",
+        "full_state_name":"Maharashtra"
+    },
+    {
+        "blr_coverage":"IND-GUJ-Navsari",
+        "full_state_name":"Gujarat"
+    },
+    {
+        "blr_coverage":"IND-HAR-Panchkula",
+        "full_state_name":"Haryana"
+    },
+    {
+        "blr_coverage":"IND-ASM-Tinsukia",
+        "full_state_name":"Assam"
+    },
+    {
+        "blr_coverage":"IND-MAH-Sangli",
+        "full_state_name":"Maharashtra"
+    },
+    {
+        "blr_coverage":"IND-BIH-Samastipur",
+        "full_state_name":"Bihar"
+    },
+    {
+        "blr_coverage":"IND-KAR-Kolar",
+        "full_state_name":"Karnataka"
+    },
+    {
+        "blr_coverage":"IND-KAR-Doddaballapur",
+        "full_state_name":"Karnataka"
+    },
+    {
+        "blr_coverage":"IND-MAH-Nanded",
+        "full_state_name":"Maharashtra"
+    },
+    {
+        "blr_coverage":"IND-PUN-Barnala",
+        "full_state_name":"Punjab"
+    }
+]
